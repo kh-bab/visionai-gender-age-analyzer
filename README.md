@@ -1,8 +1,7 @@
 # VisionAI Gender and Age Analyzer
 
 A Python desktop app that finds faces in a webcam feed or a video
-file and estimates gender and age group. Final year project, BS
-Computer Science (2021-2025), University of Malakand. Team of two.
+file and estimates gender and age group.
 
 ## What it does
 - Face detection with OpenCV (DNN detector, Haar Cascade as fallback)
