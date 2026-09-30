@@ -19,8 +19,11 @@ model is not used inside the app.
 
 ## Models
 Model files are not included because they are large. Download the
-Caffe models and put them in a folder named
-`models/`. Also needed there: the OpenCV face detector files.
+Caffe age and gender models from the Levi and Hassner project page
+(https://www.openu.ac.il/home/hassner/projects/cnn_agegender/) and
+put them in a folder named `models/`. The OpenCV face detector files
+(opencv_face_detector.pbtxt and opencv_face_detector_uint8.pb) also
+go in `models/`.
 
 ## How to run
 1. Install Python 3.8 or later
